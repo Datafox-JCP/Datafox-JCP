@@ -28,7 +28,7 @@ I have designed, architected, and launched **7 native apps on the Apple App Stor
 - 📱 **[Kairos Bible Trivia (iOS)](https://apps.apple.com/us/app/kairos-bible-trivia-quiz/id6776096259)** — Interactive quiz application built with Swift & SwiftUI.
 - 📱 **[Verso (iOS)](https://apps.apple.com/us/app/verso-quotes/id6769604313)** — Quotes, inspiration, and reflection app.
 - 📱 **[Futgolazo (iOS)](https://apps.apple.com/us/app/futgolazo-trivia-de-f%C3%BAtbol/id6756940132)** — World Cup soccer trivia app.
-- 💻 **[Kairos Punto de Venta](https://www.datafox.mx/kairospos/)** — Next-generation desktop POS system built with VB.NET & SQL Server 2022.
+- 💻 **[Kairos Punto de Venta (Windows 10/11)](https://www.datafox.mx/kairospos/)** — Next-generation desktop POS system built with VB.NET & SQL Server 2022.
 
 ---
 
