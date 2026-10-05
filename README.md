@@ -20,7 +20,8 @@ I am a Senior Software Engineer with a primary focus on native **iOS development
 
 I have designed, architected, and launched **7 native apps on the Apple App Store** and expanded key products to **Google Play**[cite: 1]:
 
-- 📱 **[Personal POS for iOS](https://apps.apple.com/us/app/personal-pos-sales-stock/id6790039981) [Personal POS for Android] (https://play.google.com/store/apps/details?id=mx.datafox.personalpos)(https://play.google.com/store/apps/details?id=mx.datafox.personalpos)** — Mobile Point of Sale & inventory management system built with native mobile frameworks[cite: 1].
+- 📱 **[Personal POS for iOS](https://apps.apple.com/us/app/personal-pos-sales-stock/id6790039981) — Mobile Point of Sale & inventory management system built with native mobile frameworks.
+- 📱 **[Personal POS for Android](https://play.google.com/store/apps/details?id=mx.datafox.personalpos) — Mobile Point of Sale & inventory management system built with native mobile frameworks.**
 - 📱 **[Ekbukil (iOS)](https://apps.apple.com/us/app/ekbukil-grief-in-calm/id6807626504)** — Personal grief support companion built with SwiftUI[cite: 1].
 - 📱 **Kairos Verse (iOS)** — Devotional study & scripture reminder app utilizing Apple's **AlarmKit** framework.
 - 📱 **[Life Moments (iOS)](https://apps.apple.com/app/id1659648057)** — Personal journal with location tracking, Core Data, and SwiftUI animations *(Reviewed by Kodeco)*[cite: 1].
