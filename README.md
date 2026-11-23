@@ -23,9 +23,11 @@ I have designed, architected, and launched **7 native apps on the Apple App Stor
 - 📱 **[Personal POS (iOS)](https://apps.apple.com/us/app/personal-pos-sales-stock/id6790039981)** — Mobile Point of Sale & inventory management system built with native mobile frameworks.
 - 📱 **[Personal POS (Android)](https://play.google.com/store/apps/details?id=mx.datafox.personalpos)** — Mobile Point of Sale & inventory management system built with native mobile frameworks.
 - 📱 **[Ekbukil (iOS)](https://apps.apple.com/us/app/ekbukil-grief-in-calm/id6807626504)** — Personal grief support companion built with SwiftUI.
+- 📱 **[Ekbukil (Android)](https://play.google.com/store/apps/details?id=mx.datafox.ekbukil)** — Personal grief support companion built with Jetpack Compose.
 - 📱 **[Kairos Verse (iOS)](https://apps.apple.com/us/app/kairos-verse-prayer-alarm/id6817382833)** — Devotional study & scripture reminder app utilizing Apple's **AlarmKit** framework.
 - 📱 **[Life Moments (iOS)](https://apps.apple.com/app/id1659648057)** — Personal journal with location tracking, Core Data, and SwiftUI animations *(Reviewed by Kodeco)*.
 - 📱 **[Kairos Bible Trivia (iOS)](https://apps.apple.com/us/app/kairos-bible-trivia-quiz/id6776096259)** — Interactive quiz application built with Swift & SwiftUI.
+- - 📱 **[Kairos Bible Trivia (Android)](https://play.google.com/store/apps/details?id=mx.datafox.kairos )** — Interactive quiz application built with Jetpack Compose.
 - 📱 **[Verso (iOS)](https://apps.apple.com/us/app/verso-quotes/id6769604313)** — Quotes, inspiration, and reflection app.
 - 📱 **[Futgolazo (iOS)](https://apps.apple.com/us/app/futgolazo-trivia-de-f%C3%BAtbol/id6756940132)** — World Cup soccer trivia app.
 - 💻 **[Kairos Punto de Venta (Windows 10/11)](https://www.datafox.mx/kairospos/)** — Next-generation desktop POS system built with VB.NET & SQL Server 2022.
